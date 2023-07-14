@@ -1,4 +1,4 @@
-# Three.js Journey
+# Demo: https://three-js-basics-1sew-sadeemsr.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
